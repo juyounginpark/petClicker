@@ -20,19 +20,19 @@ MonoBehaviour:
       itemSprite: {fileID: -8502203613552220449, guid: 5277f04d6f448524683b39d802c748a2, type: 3}
       description: "1\uCD08\uB9C8\uB2E4 5\uB9CC\uD07C \uB370\uBBF8\uC9C0\uB97C \uC90D\uB2C8\uB2E4."
       price: 1
-      scriptPrefab: {fileID: 0}
+      scriptPrefab: {fileID: -2798412696627037015, guid: 833628d22756fc14cb7f2a82da99842c, type: 3}
     - number: 1
       itemName: "\uAD6C\uB984\uC774"
       itemSprite: {fileID: 7839472567634266479, guid: 10da3ad413376254e90701574b8ff8e6, type: 3}
       description: "\uCE58\uBA85\uD0C0 \uD655\uB960\uC744 10% \uB192\uC785\uB2C8\uB2E4."
       price: 0
-      scriptPrefab: {fileID: 0}
+      scriptPrefab: {fileID: 9175790150574784563, guid: d4aae5798dbeee844acfa58e3f684171, type: 3}
     - number: 2
       itemName: "\uBA39\uB2E4 \uB0A8\uAE34 \uCEF5\uB77C\uBA74"
       itemSprite: {fileID: -8221802452147339452, guid: 06b079ee411d05c47900ad44490dc453, type: 3}
       description: "\uCF54\uC778 \uD68D\uB4DD\uB7C9\uC744 20% \uB192\uC785\uB2C8\uB2E4."
       price: 0
-      scriptPrefab: {fileID: 0}
+      scriptPrefab: {fileID: 2283868049786420498, guid: eaee104aa98708b4c860040f4c113655, type: 3}
   gradeB:
     gradeSprite: {fileID: 8061181647578862442, guid: 98ef387575a3d2d44b41283c8663b3cb, type: 3}
     items:
